@@ -1,6 +1,6 @@
 def calculate_result(mark):
     """Return the result based on a student's mark."""
-    if mark >= 40:
+    if mark >= 50:
         return "Pass"
     return "Fail"
 
